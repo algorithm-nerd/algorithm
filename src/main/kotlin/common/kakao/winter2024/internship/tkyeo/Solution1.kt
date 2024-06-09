@@ -5,3 +5,7 @@ class Solution1 {
         println("Hello, World!")
     }
 }
+
+fun main() {
+    Solution1().solution()
+}
